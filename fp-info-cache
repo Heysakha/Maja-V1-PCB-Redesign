@@ -1,4 +1,4 @@
-20122144736545627
+20125429652230448
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55649,6 +55649,20 @@ HRO_TYPE-C-31-M-12
 0
 16
 16
+Keyboard Component
+QFN50P700X700X100-45N
+
+
+0
+45
+45
+Keyboard Component
+QFP80P1200X1200X120-44N
+
+
+0
+44
+44
 Keyboard Component
 SOT143B
 Plastic Surface-mounted Package; 4 leads
