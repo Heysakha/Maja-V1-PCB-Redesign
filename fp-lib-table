@@ -2,4 +2,5 @@
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "Keyboard Component")(type "KiCad")(uri "${KIPRJMOD}/Keyboard Component")(options "")(descr ""))
+  (lib (name "Button_Switch_Keyboard")(type "KiCad")(uri "${KIPRJMOD}/Button_Switch_Keyboard.pretty")(options "")(descr ""))
 )
