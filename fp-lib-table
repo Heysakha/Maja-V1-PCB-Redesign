@@ -3,4 +3,7 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "Keyboard Component")(type "KiCad")(uri "${KIPRJMOD}/Keyboard Component")(options "")(descr ""))
   (lib (name "Button_Switch_Keyboard")(type "KiCad")(uri "${KIPRJMOD}/Button_Switch_Keyboard.pretty")(options "")(descr ""))
+  (lib (name "Unified-Daughterboard-Logo")(type "KiCad")(uri "${KIPRJMOD}/C3/Unified-Daughterboard-Logo.pretty")(options "")(descr ""))
+  (lib (name "AcheronLibrary")(type "KiCad")(uri "${KIPRJMOD}/C3/AcheronLibrary")(options "")(descr ""))
+  (lib (name "C3")(type "KiCad")(uri "${KIPRJMOD}/C3")(options "")(descr ""))
 )

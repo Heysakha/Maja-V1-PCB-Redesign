@@ -4,4 +4,5 @@
   (lib (name "TYPE-C-31-M-12")(type "Legacy")(uri "${KIPRJMOD}/Keyboard Component/TYPE-C-31-M-12.lib")(options "")(descr ""))
   (lib (name "PRTR5V0U2X_215")(type "Legacy")(uri "${KIPRJMOD}/Keyboard Component/PRTR5V0U2X_215.lib")(options "")(descr ""))
   (lib (name "SKQGAFE010")(type "Legacy")(uri "${KIPRJMOD}/Keyboard Component/SKQGAFE010.lib")(options "")(descr ""))
+  (lib (name "Unified-Daughterboard-cache")(type "Legacy")(uri "${KIPRJMOD}/C3/Unified-Daughterboard-cache.lib")(options "")(descr ""))
 )
