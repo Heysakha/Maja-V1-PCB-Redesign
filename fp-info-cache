@@ -1,4 +1,4 @@
-20138580071360902
+20145053618202688
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55733,6 +55733,20 @@ SW_SKQGAFE010
 0
 4
 4
+Keyboard Component
+Unified-Daughterboard-Logo.pretty
+
+
+0
+0
+0
+Keyboard Component
+Unified-Daughterboard-Name.pretty
+
+
+0
+9
+1
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -84909,6 +84923,20 @@ transformer flyback
 0
 10
 10
+Unified-Daughterboard-Logo
+Unified-Daughterboard-Logo.pretty
+
+
+0
+0
+0
+Unified-Daughterboard-Logo
+Unified-Daughterboard-Name.pretty
+
+
+0
+9
+1
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
