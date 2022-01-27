@@ -36,7 +36,6 @@
       8,
       9,
       10,
-      12,
       13,
       14,
       15,
@@ -62,7 +61,7 @@
       36
     ],
     "visible_layers": "ffd1fcf_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Maja V1 PCB Redesign.kicad_prl",
